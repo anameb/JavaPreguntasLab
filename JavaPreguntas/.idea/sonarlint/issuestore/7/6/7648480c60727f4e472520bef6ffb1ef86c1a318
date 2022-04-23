@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖŞ ›ùÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(œ†¨
+H
+java:S1905-"-Remove this unnecessary cast to "Connection".(†öî³şÿÿÿÿ
+D
+java:S2115-")Add password protection to this database.(†öî³şÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ÀÆ°Òÿÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ÀÆ°Òÿÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Îï©

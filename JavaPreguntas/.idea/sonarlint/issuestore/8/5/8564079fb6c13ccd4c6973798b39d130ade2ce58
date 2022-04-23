@@ -1,0 +1,54 @@
+
+ 
+java:S1192p"„Define a constant instead of duplicating this literal "Selecione la opciÃ³n correcta o si no deseas continuar presiona 0: " 3 times.(«ßøÿÿÿÿ
+s	java:S135D"YReduce the total number of break and continue statements in this loop to use at most one.(…ü¿õüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïíõšûÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(úÓ“åşÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ïíõšûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(àéÈƒıÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(èĞáĞ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¢°æñ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(‹§èûÿÿÿÿ
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(¥ †*
+P
+java:S1854=":Remove this useless assignment to local variable "rounds".(¯›‹á
+1
+java:S3626G"Remove this redundant jump.(ÉŠ©ƒ
+M
+java:S1135;"2Complete the task associated to this TODO comment.(ô«İòıÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(Ô©Â¯
+h
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¶²ÕŠ
+V
+java:S1854i";Remove this useless assignment to local variable "options".(€¿öÔıÿÿÿÿ
+Z
+java:S1854g"DRemove this useless assignment to local variable "optionToValidate".(ËÆ÷´
+_
+java:S1854]"DRemove this useless assignment to local variable "playerController".(ƒ™ğÄúÿÿÿÿ
+P
+java:S1854Y":Remove this useless assignment to local variable "reward".(Æİ™‹
+X
+java:S1854T"=Remove this useless assignment to local variable "questions".(¡¢Á¤ÿÿÿÿÿ
+R
+java:S1854S"<Remove this useless assignment to local variable "question".(Åëµõ
+T
+java:S1854|">Remove this useless assignment to local variable "questionOk".(Á–ÓÆ
+U
+java:S1854">Remove this useless assignment to local variable "questionOk".(Á–ÓÆ
+P
+java:S1481]"5Remove this unused "playerController" local variable.(ƒ™ğÄúÿÿÿÿ
+3
+java:S2119`"Save and re-use this "Random".(¼İÅf
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(‘©Ì£
+M	java:S106d"9Replace this use of System.out or System.err by a logger.(û“¯b
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(ÙÚˆò
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(«ßøÿÿÿÿ
+B
+java:S1125v"'Remove the unnecessary boolean literal.(°õ¶Èûÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(¦ïëÔ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¼óãªıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(«ßøÿÿÿÿ
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(êßÍù
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(–šÊ
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¹¤ƒ
+W	java:S125§"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
